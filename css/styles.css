@@ -1,0 +1,81 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+div.descuento{
+    background-color: #1CD1B0;
+    width:100%;
+    height:38px;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+header {
+background-color: #00669F;
+color: black;
+position: sticky;
+width: 100%;
+height: 101px;
+text-align: left;
+top: 38px;
+font-size:40px;
+font-weight: normal;
+z-index: 10;
+}
+.corazon {
+    position: absolute;
+    left: 3%;
+    top: 1.88%;
+}
+article.contenedor{
+background: #F3F3F3;;
+position: relative;
+width: 300px;
+height: 530px;
+top:293px;
+left: 32px;
+font-size: 16px;
+text-align: center;
+display: inline-block
+}
+.batmancara {
+position: absolute;
+height: 118px;
+width: 120px;
+border-radius: 64px;
+left: 99px;
+top: 120px;
+position: absolute;
+
+}
+button.vermas {
+background-color: #00669F;
+color: white;
+width: 128px;
+height: 48px ;
+font-weight: 400;
+font-size: 15px;
+text-align: center;
+font-style: normal;
+}
+.harley {
+position: absolute;
+height: 118px;
+width: 120px;
+border-radius: 64px;
+left: 99px;
+top: 120px;
+position: absolute;
+}
+footer
+{
+    width: 100%;
+    height: 51px;
+    top: 972px;
+    background:#00669F ;
+    color: white;
+    position: relative;
+    height: 51px;
+    left:0px;
+}
